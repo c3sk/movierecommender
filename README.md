@@ -47,7 +47,7 @@ This project was created by a team of three programmers:
 
 - Francesc Vilaró ([@c3sk](https://github.com/c3sk)): Contributed mainly to the database creation and data fetching.
 - Berta Pfaff ([@BertaPfaff](https://github.com/BertaPfaff)): Contributed mainly to the exploratory data analysis and data visualization sections of the project.
-- Sergio Salvador ([@bobjohnson](https://github.com/bobjohnson)): Implemented the machine learning model.
+- Sergio Salvador ([@Sersal10](https://github.com/Sersal10)): Implemented the machine learning model.
 
 We would like to thank our colleagues and mentors for their support and feedback throughout the project. Special thanks to Luciano Gabanelli ([@LuchoGabba](https://github.com/LuchoGabba)) for supervising the execution of this project.
 
